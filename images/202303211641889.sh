@@ -1,0 +1,1 @@
+java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:BurpSuiteLoader_v2021.9.1.jar -noverify -jar burpsuite_pro_v2021.9.1.jar
